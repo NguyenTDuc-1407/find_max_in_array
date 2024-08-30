@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "find_max_in_array", "find_max_in_array.csproj", "{20F17659-69C7-4440-8398-7FBAD3D51144}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "find_max_in_array", "find_max_in_array.csproj", "{997D4AB8-99F5-438B-B9C2-225886476E13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{20F17659-69C7-4440-8398-7FBAD3D51144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{20F17659-69C7-4440-8398-7FBAD3D51144}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{20F17659-69C7-4440-8398-7FBAD3D51144}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{20F17659-69C7-4440-8398-7FBAD3D51144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997D4AB8-99F5-438B-B9C2-225886476E13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D4AB8-99F5-438B-B9C2-225886476E13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D4AB8-99F5-438B-B9C2-225886476E13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D4AB8-99F5-438B-B9C2-225886476E13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
